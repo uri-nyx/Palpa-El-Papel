@@ -1,0 +1,4 @@
+Hola chiques!
+algunes de nosotres hemos estado barajando la idea de alquilar un espacio de trabajo compartido y organizarnos un poquito dadas las carencias de los talleres que ofrece la uni. Creo que en general en el máster tenemos cierta inquietud por movernos y hacer cosas. Hemos estado ya mirando locales cerca de la facultad y en idealista. A mí me interesa mucho la idea de crear una asociación y un espacio que no dependa tanto de la uni, y no me asusta encargarme de todos los trámites. Esto v a mucho en mi línea de trabajo y estoy incluso pensando en incluir esta experiencia en mi TFM. Además de un lugar de trabajo, podríamos hacer exposiciones y eventos sin estar atados a los requisitos del máster.
+
+A quienes os mole la idea, me gustaría reunirme con vosotres el lunes a las 14:30h en la cafeteria para comer y discutir estas propuestas. También estoy totalmente disponible si tenéis alguna aportación por aquí o cuando me pilléis en la facultad.

@@ -1,0 +1,1 @@
+Investigar a través de un cuaderno de un viaje ficticio cómo la integración entre naturaleza y comunidad en un lugar fantástico puede establecer una tesis estética acorde con el ODS 11 (ciudades y comunidades sostenibles).
