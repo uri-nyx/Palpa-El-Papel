@@ -1,0 +1,4 @@
+- [x] Mandar anteproyecto a los tutos 🔼 📅 2024-12-17 ✅ 2024-12-18
+-  [ ] Recopilar bibliografía multicopistas ⏫ 📅 2024-12-31
+-  [ ] Recopilar bibliografía low-tech 🔽 🛫 2025-1-1 📅 2025-1-15
+-  [ ] Recopilar bibliografía practicas colaborativas y espacios artísticos autogestionados 🔼 🛫 2025-1-15 📅 2025-1-30

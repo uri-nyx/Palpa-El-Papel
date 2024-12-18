@@ -1,0 +1,30 @@
+- [ ] Entre 8 y 15 páginas
+- [ ] Apartados
+	- [ ] Portada
+		- [ ] Tutor
+		- [ ] TITULO *Plan de trabajo Fin de Master para el Curso Procesos y Proyectos en Investigación Artística*
+		- [ ] Abstract (solo en español, sin palabras clave)
+	- [x] Introducción ✅ 2024-12-17
+		- [x] Motivaciones personales ✅ 2024-12-17
+		- [x] Antecedentes y estado de la cuestión ✅ 2024-12-17
+	- [x] Objetivos ✅ 2024-12-17
+	- [ ] Hipótesis
+		- [ ] Variables QUE COÑO ES ESTO
+	- [x] Metodología ✅ 2024-12-17
+		- [x] Cómo lo vamos a hacer ✅ 2024-12-17
+		- [x] Preproyecto creativo ✅ 2024-12-17
+	- [x] Cronograma ✅ 2024-12-17
+	- [x] Bibliografía ✅ 2024-12-17
+		- [x] APA 7 ✅ 2024-12-17
+		- [x] Entre10 y 20 items ✅ 2024-12-17
+		- [x] Libros ✅ 2024-12-17
+		- [x] Capítulos ✅ 2024-12-17
+		- [x] Artículos de revista ✅ 2024-12-17
+		- [x] Otro tipo de fuente (video, blog, noticia, peli) ✅ 2024-12-17
+- [x] Citas textuales ✅ 2024-12-17
+- [x] Citas no textuales ✅ 2024-12-17
+- [x] Notas al pie ✅ 2024-12-17
+- [ ] Se puede hacer un índice
+- [x] Pre proyecto ✅ 2024-12-17
+	- [x] Incluir imágenes ✅ 2024-12-17
+	- [x] Links ✅ 2024-12-17

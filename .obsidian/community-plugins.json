@@ -1,4 +1,8 @@
 [
   "better-export-pdf",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-tasks-plugin",
+  "merge-notes",
+  "obsidian-pandoc"
 ]

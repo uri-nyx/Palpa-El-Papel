@@ -1,0 +1,1 @@
+La integración entre naturaleza y comunidad en un lugar fantástico puede establecer una tesis estética acorde con el ODS 11.

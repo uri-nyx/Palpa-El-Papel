@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39d9f0302af26750",
+        "id": "987c1aa395ecb11d",
         "type": "tabs",
         "children": [
           {
-            "id": "2fbeffe3defdc9c5",
+            "id": "2ed76ce677e6ae7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Espacio/Cronograma de este finde.md",
+                "file": "Tareas/TFM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cronograma de este finde"
+              "title": "TFM"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "67b4fa8551704730",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Espacio/Cronograma de este finde.md"
+                "file": "Tareas/TFM.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Cronograma de este finde"
+              "title": "Outline of TFM"
             }
           },
           {
@@ -175,52 +175,62 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fae537e9928c319",
+  "active": "70e0f96643129990",
   "lastOpenFiles": [
-    "repo/LICENSE",
-    "repo",
-    "Espacio/Máquina de Kleinanzeigen.md",
-    "Espacio/Cronograma de este finde.md",
-    "Anteproyecto/Anteproyecto.md",
-    "Anteproyecto/Untitled.md",
-    "Antecedentes (externos)/Protocolo Aula libre y Banco materiales.pdf",
-    "Antecedentes (externos)/Tesis Antonio Collados.pdf",
+    "Tareas/Makinas.md",
+    "Imagenes/Pasted image 20241217224116.png",
+    "Solicitud fundacion/Material complementario.md",
+    "Imagenes",
+    "Solicitud fundacion/palpa-el-papel-es.pdf",
+    "Solicitud fundacion/lu23952vcu08a.tmp",
+    "Solicitud fundacion/lu23952vcu087.tmp",
+    "Solicitud fundacion/Material complementario.pdf",
+    "Solicitud fundacion/lu23952vcu084.tmp",
+    "Solicitud fundacion/~$terial complementario.odt",
+    "Solicitud fundacion/Material complementario.odt",
+    "Imagenes/parkfictionisgezi.jpg",
+    "Fanzine/Archivo/Cartel convocatoria/Cartel publicado.jpg",
+    "Imagenes/Imagen de WhatsApp 2024-12-14 a las 16.54.51_9cd9d013.jpg",
+    "Imagenes/Imagen de WhatsApp 2024-12-14 a las 17.56.08_9e0b7e07.jpg",
+    "Imagenes/Imagen de WhatsApp 2024-12-15 a las 00.18.19_55fc66d8.jpg",
+    "Imagenes/Imagen de WhatsApp 2024-12-15 a las 00.18.19_9185c89d.jpg",
+    "Plan de proyecto/Apartados/Introducción.md",
+    "Solicitud fundacion",
+    "Plan de proyecto/Apartados/Abstract.md",
+    "Plan de proyecto/Apartados/Antecedentes.md",
+    "Plan de proyecto/Apartados/Objetivos.md",
+    "Plan de proyecto/Apartados/Preproyecto creativo.md",
+    "Fanzine/Archivo/Cartel convocatoria/Cartel PA.pdf",
+    "Plan de proyecto/Apartados/Cronograma.md",
+    "Plan de proyecto/Plan de Trabajo TFM.md",
+    "Plan de proyecto/Apartados/Palabras Clave.md",
+    "merged.md",
+    "Plan de proyecto/Requisitos.md",
+    "Plan de proyecto/Anteproyecto/Hipótesis.md",
+    "Plan de proyecto/Apartados/Bibliografía.md",
+    "Plan de proyecto/Apartados/Metodología.md",
+    "Referencias documentales/Le Guin, U. K. (1992) The Language of the Night.md",
+    "Imagenes/Imagen de WhatsApp 2024-12-14 a las 17.56.09_f0bd40d3.jpg",
+    "Imagenes/Imagen de WhatsApp 2024-12-14 a las 16.54.51_c3189135.jpg",
+    "Referencias artisticas/Tríptico de El Jardín de las Delicias, El Bosco, ca. 1500.md",
+    "Espacio/Cosas que vamos haciendo.canvas",
     "Espacio/Cadena.md",
-    "Espacio/Mensaje Convocatoria Conversaciones Preliminares.md",
-    "Plan de proyecto/Proyecto Creativo.md",
-    "Plan de proyecto/Objetivos.md",
-    "Espacio/Interesadas Taller.md",
+    "Tareas/TFM.md",
+    "Tareas.md",
+    "Espacio/Cronograma.md",
     "Espacio/Feeling.md",
-    "Anteproyecto/Objetivos específicos.md",
-    "Anteproyecto/Hipótesis.md",
-    "Anteproyecto/Documento para Diego del Pozo.md",
-    "Anteproyecto/Objetivo principal.md",
-    "Plan de proyecto/escaleta.md",
-    "Espacio/anuncios",
-    "Espacio",
-    "Plan de proyecto/Cronograma.md",
-    "Antecedentes (personales)/Worldbuilding/Historia/Linea del Tiempo de Even.md",
-    "Antecedentes (externos)",
-    "Anteproyecto/Anteproyecto Entrega.md",
-    "Antecedentes (personales)/Worldbuilding/Idioma/De los Sonidos.pdf",
-    "Antecedentes (personales)/Worldbuilding/Idioma/i Lanat kie Nar-Naellanae Pilen.pdf",
-    "Antecedentes (personales)/Worldbuilding/Idioma/la lengua de Even.md",
-    "Antecedentes (personales)/Abuela dictando su vida.md",
-    "Antecedentes (personales)/Worldbuilding/Personajes/Personajes a lo largo de la historia.xlsx",
-    "Antecedentes (personales)/Worldbuilding/Personajes/Linajes/Reales",
-    "Antecedentes (personales)/Worldbuilding/Juegos/Austro/ERS/Disposiciones/mors.md",
-    "Antecedentes (personales)/Worldbuilding/Juegos/Austro/src/Austro.md",
-    "Antecedentes (personales)/Worldbuilding/Idioma/radicales.md",
-    "Antecedentes (personales)/Worldbuilding/sueños.md",
-    "Antecedentes (personales)/De la Rosa Blanca/eleanor.md",
+    "Espacio/Interesadas Taller.md",
+    "Espacio/Mensaje Convocatoria Conversaciones Preliminares.md",
+    "Espacio/Máquina de Kleinanzeigen.md",
+    "Untitled.canvas",
     "Referencias artisticas/Tríptico del Jardín de las delicias.jpg"
   ]
 }

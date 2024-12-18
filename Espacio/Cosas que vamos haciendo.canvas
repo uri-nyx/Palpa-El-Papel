@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ad923b31b6d8acc9","type":"file","file":"Espacio/Mensaje Convocatoria Conversaciones Preliminares.md","x":-1060,"y":-760,"width":880,"height":400},
+		{"id":"c82b65cb7a79e085","type":"file","file":"Espacio/Interesadas Taller.md","x":-1600,"y":-760,"width":400,"height":400},
+		{"id":"0f423c36eb21a494","type":"file","file":"Espacio/Feeling.md","x":-240,"y":-300,"width":400,"height":400},
+		{"id":"c80b3a2f421bf4b8","type":"file","file":"Tareas/Makinas.md","x":280,"y":-980,"width":400,"height":400},
+		{"id":"ebd4f820276c3ea7","type":"file","file":"Espacio/Máquina de Kleinanzeigen.md","x":860,"y":-660,"width":400,"height":400},
+		{"id":"3a7e23302e23bfdc","x":-1260,"y":-1600,"width":400,"height":400,"type":"file","file":"Espacio/Cadena.md"}
+	],
+	"edges":[
+		{"id":"66506753329dbf7c","fromNode":"ad923b31b6d8acc9","fromSide":"right","toNode":"0f423c36eb21a494","toSide":"top"},
+		{"id":"6f7493d8bb32ec09","fromNode":"c82b65cb7a79e085","fromSide":"right","toNode":"ad923b31b6d8acc9","toSide":"left"},
+		{"id":"546ae46d5efc8a00","fromNode":"c80b3a2f421bf4b8","fromSide":"right","toNode":"ebd4f820276c3ea7","toSide":"top"}
+	]
+}
