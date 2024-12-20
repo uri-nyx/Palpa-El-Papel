@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas/TFM.md"
+                "file": "Referentes arte generativo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of TFM"
+              "title": "Outline of Referentes arte generativo"
             }
           },
           {
@@ -180,11 +180,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "70e0f96643129990",
+  "active": "2ed76ce677e6ae7e",
   "lastOpenFiles": [
+    "Plan de proyecto/Julia.md",
+    "Plan de proyecto/Requisitos.md",
+    "Fanzine/Finanzas/Maquinaria.sheet",
+    "Fanzine/Finanzas/Pruebas.sheet",
+    "Tareas/TFM.md",
+    "Fanzine/Finanzas",
+    "Referentes arte generativo.md",
     "Tareas/Makinas.md",
     "Imagenes/Pasted image 20241217224116.png",
     "Solicitud fundacion/Material complementario.md",
@@ -195,7 +203,6 @@
     "Solicitud fundacion/Material complementario.pdf",
     "Solicitud fundacion/lu23952vcu084.tmp",
     "Solicitud fundacion/~$terial complementario.odt",
-    "Solicitud fundacion/Material complementario.odt",
     "Imagenes/parkfictionisgezi.jpg",
     "Fanzine/Archivo/Cartel convocatoria/Cartel publicado.jpg",
     "Imagenes/Imagen de WhatsApp 2024-12-14 a las 16.54.51_9cd9d013.jpg",
@@ -203,17 +210,14 @@
     "Imagenes/Imagen de WhatsApp 2024-12-15 a las 00.18.19_55fc66d8.jpg",
     "Imagenes/Imagen de WhatsApp 2024-12-15 a las 00.18.19_9185c89d.jpg",
     "Plan de proyecto/Apartados/Introducción.md",
-    "Solicitud fundacion",
     "Plan de proyecto/Apartados/Abstract.md",
     "Plan de proyecto/Apartados/Antecedentes.md",
     "Plan de proyecto/Apartados/Objetivos.md",
     "Plan de proyecto/Apartados/Preproyecto creativo.md",
-    "Fanzine/Archivo/Cartel convocatoria/Cartel PA.pdf",
     "Plan de proyecto/Apartados/Cronograma.md",
     "Plan de proyecto/Plan de Trabajo TFM.md",
     "Plan de proyecto/Apartados/Palabras Clave.md",
     "merged.md",
-    "Plan de proyecto/Requisitos.md",
     "Plan de proyecto/Anteproyecto/Hipótesis.md",
     "Plan de proyecto/Apartados/Bibliografía.md",
     "Plan de proyecto/Apartados/Metodología.md",
@@ -223,13 +227,11 @@
     "Referencias artisticas/Tríptico de El Jardín de las Delicias, El Bosco, ca. 1500.md",
     "Espacio/Cosas que vamos haciendo.canvas",
     "Espacio/Cadena.md",
-    "Tareas/TFM.md",
     "Tareas.md",
     "Espacio/Cronograma.md",
     "Espacio/Feeling.md",
     "Espacio/Interesadas Taller.md",
     "Espacio/Mensaje Convocatoria Conversaciones Preliminares.md",
-    "Espacio/Máquina de Kleinanzeigen.md",
     "Untitled.canvas",
     "Referencias artisticas/Tríptico del Jardín de las delicias.jpg"
   ]
